@@ -1,1 +1,7 @@
-![gitanimals](https://render.gitanimals.org/farms/TotKtoSmog)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=TotKtoSmog&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/TotKtoSmog"
+  width="600"
+  height="300"
+/>
+</a>
